@@ -1,16 +1,16 @@
-import React from 'react'
+// import React from 'react'
 
-var titles = ['Vikings', 'Narcos', 'Rick and Morty'];
+// var titles = ['Vikings', 'Narcos', 'Rick and Morty'];
 
-const MovieList = (titles) => ( {}
-  <ul>
-    {
-      titles.map( title => 
-        <li>{title}</li>
-        )
-      }
-  </ul>
-)
+// const MovieList = (titles) => ( 
+//   // <ul>
+//   //   {
+//   //     titles.map( title => 
+//   //       <li>{title}</li>
+//   //       )
+//   //     }
+//   // </ul>
+// )
 
 
-export default MovieList
+// export default MovieList
